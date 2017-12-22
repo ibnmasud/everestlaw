@@ -1,4 +1,7 @@
 <article id="{{ .File.TranslationBaseName }}">
   <h1>{{ .Title }}</h1>
+  {{ if .Params.image }}
+  <figure class="image main" src="{{ .Params.image }}" alt="{{ .Title }}" >
+  <img src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
   {{ .Content }}
 </article>
