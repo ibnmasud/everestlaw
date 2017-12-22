@@ -36,11 +36,11 @@
           </div>
 
         <!-- Multilanguage -->
-          <div id="languages">
+          <!-- div id="languages">
             {{ if .IsTranslated }}
               {{ range $i, $e := .Translations }}
                 {{ if $i }}, {{ end }}<a href="{{ .Permalink }}">{{ $e.Language.LanguageName }}</a>
               {{ end}}
             {{ end }}
-          </div>
+          </div -->
 {{ partial "footer.html" . }}

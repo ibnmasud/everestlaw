@@ -1,16 +1,15 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "Homepage"
+title = "Everest Law"
 theme = "dimension"
 defaultContentLanguage = "en"
 enableRobotsTXT = true
 disableKinds=["RSS"]
 
 [params]
-  description = '<!--[-->A fully responsive site template designed by <a href="https://html5up.net">HTML5 UP</a> and released<!--]--><br />
-                <!--[-->for free under the <a href="https://html5up.net/license">Creative Commons</a> license.<!--]-->'
+  description = '<!--[-->SLOGAN GOES HERE<!--]-->'
   logo = "fa-diamond"
-  copyright = "Untitled"
+  copyright = "EverestLaw"
 
 [[params.social]]
   medium = "twitter"
@@ -41,5 +40,5 @@ weight = 1
 languageName = "Deutsch"
 weight = 2
 title = "Dimension"
-description = '<!--[-->A fully responsive site template designed by <a href="https://html5up.net">HTML5 UP</a> and released<!--]--><br />
-                <!--[-->for free under the <a href="https://html5up.net/license">Creative Commons</a> license.<!--]-->'
+  description = '<!--[-->SLOGAN GOES HERE<!--]-->'
+  
