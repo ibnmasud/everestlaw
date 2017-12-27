@@ -8,8 +8,8 @@ disableKinds=["RSS"]
 
 [params]
   description = '<!--[-->SLOGAN GOES HERE<!--]-->'
-  logo = "fa-diamond"
-  copyright = "EverestLaw"
+  logo = "fa-balance-scale"
+  copyright = "Everest Law"
 
 [[params.social]]
   medium = "twitter"
