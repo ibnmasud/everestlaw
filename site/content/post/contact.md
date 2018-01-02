@@ -1,7 +1,7 @@
 ---
 title: Contact
 draft: false
-weight: 40
+weight: 50
 ---
 405 Britannia Rd East Suite 101B, 
 
