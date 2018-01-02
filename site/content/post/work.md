@@ -2,7 +2,7 @@
 title: Criminal Law
 draft: false
 weight: 20
-image: /img/prison-553836_1920.jpg
+image: /img/prison-553836_640.jpg
 ---
 Have you or a loved one been charged criminally? We understand that this is a stressful time and Everest Law is here to help. At Everest Law you can be sure that you will get expert advice and as accurate a description of the situation as possible. 
 
