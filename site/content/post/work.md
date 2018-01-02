@@ -1,5 +1,5 @@
 ---
-title: CRIMINAL LAW
+title: Criminal Law
 draft: false
 weight: 20
 image: /images/pic02.jpg
