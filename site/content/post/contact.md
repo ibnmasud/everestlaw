@@ -1,8 +1,17 @@
-+++
-title = "Contact"
-weight = 40
-draft = false
-+++
+---
+title: Contact
+draft: false
+weight: 40
+---
+405 Britannia Rd East Suite 101B, 
+
+Mississauga, ON 
+
+L4Z 1X9
+
+Tel: 647-812-0LAW
+
+Fax: +1 647 846-8916
 
 <form method="post" action="#">
 	<div class="field half first">
