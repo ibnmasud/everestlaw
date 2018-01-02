@@ -1,7 +1,7 @@
 ---
 title: About
 draft: false
-weight: 50
+weight: 40
 image: /img/about-direct-sourcing.jpg
 ---
 Omer S. Chaudhry is the principal mind behind Everest Law. 
