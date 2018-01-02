@@ -13,6 +13,8 @@ Tel: 647-812-0LAW
 
 Fax: +1 647 846-8916
 
+omer@everestlaw.ca
+
 <form method="post" action="#">
 	<div class="field half first">
 		<label for="name">Name</label>
