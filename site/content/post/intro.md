@@ -2,7 +2,7 @@
 title: Civil Litigation
 draft: false
 weight: 10
-image: /img/right-2746187_1920.jpg
+image: /img/right-2746187_640.jpg
 ---
 Civil litigation can seriously disrupt a person’s life or a business’s future. At Everest Law we strive to provide expert advice to ensure that our clients can rest at ease. Our goal is to guide you through your dispute in the most competent and cost-effective way possible. 
 
