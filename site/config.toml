@@ -7,7 +7,7 @@ enableRobotsTXT = true
 disableKinds=["RSS"]
 
 [params]
-  description = '<!--[-->SLOGAN GOES HERE<!--]-->'
+  description = 'for peak performance'
   logo = "fa-balance-scale"
   copyright = "Everest Law"
 
@@ -40,5 +40,5 @@ weight = 1
 languageName = "Deutsch"
 weight = 2
 title = "Dimension"
-  description = '<!--[-->SLOGAN GOES HERE<!--]-->'
+  description = 'for peak performance'
   
