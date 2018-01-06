@@ -635,7 +635,9 @@ table {
     padding: 0 0.75em 0.75em 0.75em;
     text-align: left; }
   table thead {
-    border-bottom: solid 2px #ffffff; }
+    border-bottom: solid 2px #ffffff;
+    visibility: hidden;
+  }
   table tfoot {
     border-top: solid 2px #ffffff; }
   table.alt {
