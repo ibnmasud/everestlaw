@@ -14,76 +14,12 @@ At Everest Law we engage in all manner of Civil Litigation so call us or come se
 
 At Everest Law we can help with:
 
-<table>
-
-\    <tr>
-
-\    <th>Personal Injury</th>
-
-\    <th>Real estate issues</th>
-
-\    <th>Corporate issues</th>
-
-\    </tr>
-
-\    <tr>
-
-\    <td>Shareholder issues</td>
-
-\    <td>Financial issues</td>
-
-\    <td>Insurance issues</td>
-
-\    </tr>
-
-\    <tr>
-
-\    <td>Professional Services Litigation</td>
-
-\    <td>Employment issues</td>
-
-\    <td>	Manufacturing issues</td>
-
-\    </tr>
-
-\    <tr>
-
-\    <td>Distribution issues</td>
-
-\    <td>Confidentiality issues</td>
-
-\    <td>Insurance Litigation</td>
-
-\    </tr>
-
-\    <tr>
-
-\    <td>Insurance Coverage</td>
-
-\    <td>Property Casualty</td>
-
-\    <td>Shareholder Disputes</td>
-
-\    </tr>
-
-\    <tr>
-
-\    <td>Disability Claims</td>
-
-\    <td>Employment</td>
-
-\    <td>Fraud</td>
-
-\    </tr>
-
-\    <tr>
-
-\    <td>Errors and Omissions</td>
-
-\    <td>Discrimination</td>
-
-\    <td>Mortgage Fraud</td>
-
-\    </tr>
-
-</table>
+||
+:-----:|:-----:|:-----:
+Personal Injury|Real estate issues|Corporate issues
+Shareholder issues|Financial issues|Insurance issues
+Professional Services Litigation|Employment issues|Manufacturing issues
+Distribution issues|Confidentiality issues|Insurance Litigation
+Insurance Coverage|Property Casualty|Shareholder Disputes
+Disability Claims|Employment|Fraud
+Errors and Omissions|Discrimination|Mortgage Fraud
