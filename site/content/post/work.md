@@ -12,54 +12,96 @@ Omer specializes in dealing with cases where there are multiple facets to be con
 
 Some of the matters we deal with are:
 
-•	Domestic Assault
+<table>
 
-•	Assault
+\    <tr>
 
-•	Sexual assault
+\    <th>Domestic Assault</th>
 
-•	Drinking and driving (DUI)/ Over 80 and Impaired
+\    <th>Assault</th>
 
-•	Fraud
+\    <th>Sexual assault</th>
 
-•	Drug offences
+\    </tr>
 
-•	Murder
+\    <tr>
 
-•	Manslaughter
+\    <td>Drinking and driving (DUI)/ Over 80 and Impaired</td>
 
-•	Assault with a Weapon
+\    <td>Drinking and driving (DUI)/ Over 80 and Impaired</td>
 
-•	Bail Hearings
+\    <td>Fraud</td>
 
-•	Bail Reviews
+\    </tr>
 
-•	Break & Enter
+\    <tr>
 
-•	Charter Applications
+\    <td>Drug offences</td>
 
-•	Environmental Prosecutions
+\    <td>Murder</td>
 
-•	Fraud
+\    <td>Manslaughter</td>
 
-•	Highway Traffic Act Offences
+\    </tr>
 
-•	Importing
+\    <tr>
 
-•	Immigration Prosecutions
+\    <td>Assault with a Weapon</td>
 
-•	Internet Related Charges
+\    <td>Bail Hearings</td>
 
-•	Professional Disciplinary Proceedings
+\    <td>Bail Reviews</td>
 
-•	Quasi-Criminal Prosecutions
+\    </tr>
 
-•	Robbery
+\    <tr>
 
-•	Sexual Assault
+\    <td>Break &amp; Enter</td>
 
-•	Tax Prosecutions
+\    <td>Charter Applications</td>
 
-•	Theft
+\    <td>Environmental Prosecutions</td>
 
-•	Youth Criminal Justice Act
+\    </tr>
+
+\    <tr>
+
+\    <td>Fraud</td>
+
+\    <td>Highway Traffic Act Offences</td>
+
+\    <td>Importing</td>
+
+\    </tr>
+
+\    <tr>
+
+\    <td>Immigration Prosecutions</td>
+
+\    <td>	Internet Related Charges</td>
+
+\    <td>Professional Disciplinary Proceedings</td>
+
+\    </tr>
+
+\    <tr>
+
+\    <td>Quasi-Criminal Prosecutions</td>
+
+\    <td>Robbery</td>
+
+\    <td>Sexual Assault</td>
+
+\    </tr>
+
+\    <tr>
+
+\    <td>Tax Prosecutions</td>
+
+\    <td>Theft</td>
+
+\    <td>Youth Criminal Justice Act</td>
+
+\    </tr>
+
+</table>
