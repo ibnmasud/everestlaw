@@ -12,7 +12,7 @@ Omer specializes in dealing with cases where there are multiple facets to be con
 
 Some of the matters we deal with are:
 
-||
+|-|
 :-----:|:-----:|:-----:
 Domestic Assault|Assault|Sexual assault
 Youth Criminal Justice Act|Drinking and driving (DUI)|Fraud
