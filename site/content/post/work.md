@@ -26,9 +26,9 @@ Some of the matters we deal with are:
 
 \    <tr>
 
-\    <td>Drinking and driving (DUI)/ Over 80 and Impaired</td>
+\    <td>Youth Criminal Justice Act</td>
 
-\    <td>Drinking and driving (DUI)/ Over 80 and Impaired</td>
+\    <td>Drinking and driving (DUI)</td>
 
 \    <td>Fraud</td>
 
@@ -78,7 +78,7 @@ Some of the matters we deal with are:
 
 \    <td>Immigration Prosecutions</td>
 
-\    <td>	Internet Related Charges</td>
+\    <td>Internet Related Charges</td>
 
 \    <td>Professional Disciplinary Proceedings</td>
 
@@ -100,8 +100,8 @@ Some of the matters we deal with are:
 
 \    <td>Theft</td>
 
-\    <td>Youth Criminal Justice Act</td>
+\    <td>Over 80 and Impaired</td>
 
-\    </tr>
+</tr>
 
 </table>
