@@ -20,7 +20,7 @@ At Everest Law we can help with:
 
 \    <th>Personal Injury</th>
 
-\    <th>Professional Services Litigation</th>
+\    <th>Real estate issues</th>
 
 \    <th>Corporate issues</th>
 
@@ -38,7 +38,7 @@ At Everest Law we can help with:
 
 \    <tr>
 
-\    <td>Real estate issues</td>
+\    <td>Professional Services Litigation</td>
 
 \    <td>Employment issues</td>
 
