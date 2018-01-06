@@ -14,7 +14,7 @@ At Everest Law we engage in all manner of Civil Litigation so call us or come se
 
 At Everest Law we can help with:
 
-|-|
+Personal Injury|Real estate issues|Corporate issues
 :-----:|:-----:|:-----:
 Personal Injury|Real estate issues|Corporate issues
 Shareholder issues|Financial issues|Insurance issues
