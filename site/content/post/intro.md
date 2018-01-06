@@ -14,76 +14,76 @@ At Everest Law we engage in all manner of Civil Litigation so call us or come se
 
 At Everest Law we can help with:
 
-•	Personal Injury
+<table>
 
-•	Professional Services Litigation
+\    <tr>
 
-•	Corporate issues
+\    <th>Personal Injury</th>
 
-•	Shareholder issues
+\    <th>Professional Services Litigation</th>
 
-•	Financial issues
+\    <th>Corporate issues</th>
 
-•	Insurance issues
+\    </tr>
 
-•	Real estate issues
+\    <tr>
 
-•	Employment issues
+\    <td>Shareholder issues</td>
 
-•	Manufacturing issues
+\    <td>Financial issues</td>
 
-•	Distribution issues
+\    <td>Insurance issues</td>
 
-•	Confidentiality issues
+\    </tr>
 
-•	Insurance Litigation
+\    <tr>
 
-•	Insurance Coverage
+\    <td>Real estate issues</td>
 
-•	Disability Claims
+\    <td>Employment issues</td>
 
-•	Errors and Omissions
+\    <td>	Manufacturing issues</td>
 
-•	Property Casualty
+\    </tr>
 
-•	Employment
+\    <tr>
 
-•	Discrimination
+\    <td>Distribution issues</td>
 
-•	Shareholder Disputes
+\    <td>Confidentiality issues</td>
 
-•	Fraud
+\    <td>Insurance Litigation</td>
 
-•	Mortgage Fraud
+\    </tr>
 
-•	Officer and Director Liability
+\    <tr>
 
-•	Contract Disputes
+\    <td>Insurance Coverage</td>
 
-•	Injunctions
+\    <td>Property Casualty</td>
 
-•	Collections
+\    <td>Shareholder Disputes</td>
 
-•	Judgment and Debt Enforcement
+\    </tr>
 
-•	Mortgage Enforcement
+\    <tr>
 
-•	Professional Negligence
+\    <td>Disability Claims</td>
 
-•	Real Estate Litigation
+\    <td>Employment</td>
 
-•	Commercial Lease Disputes
+\    <td>Fraud</td>
 
-•	Easements/Rights of Way
+\    </tr>
 
-•	Human Rights
+\    <tr>
 
-•	Commercial Litigation
+\    <td>Errors and Omissions</td>
 
-•	Civil Litigation
+\    <td>Discrimination</td>
 
-•	Appeals
+\    <td>Mortgage Fraud</td>
 
-•	Tribunal Hearings
+\    </tr>
 
-•	Mediations and Arbitrations
+</table>
