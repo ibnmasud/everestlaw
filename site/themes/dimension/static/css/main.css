@@ -1,5 +1,18 @@
 @import url(font-awesome.min.css);
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300italic,600italic,300,600");
+#emailsending{
+  background-color: #ffffff00 !important;
+}
+#emailsending .close {
+  display: none !important;
+}
+#emailsent{
+  padding-top: 1em !important;
+}
+#emailerror{
+  padding-top: 1em !important;
+}
+
 /*
 	Dimension by HTML5 UP
 	html5up.net | @ajlkn

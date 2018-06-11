@@ -10,7 +10,8 @@ disableKinds=["RSS"]
   description = 'for peak performance'
   logo = "fa-balance-scale"
   copyright = "Everest Law"
-
+[params.apis]
+  localhost = "http://localhost:9000"
 [[params.social]]
   medium = "twitter"
   icon = "twitter"

@@ -12,6 +12,57 @@
 			<script src="/js/skel.min.js"></script>
 			<script src="/js/util.js"></script>
 			<script src="/js/main.js"></script>
+			<script>
+				function getFormData($form){
+					var unindexed_array = $form.serializeArray();
+					var indexed_array = {};
+
+					$.map(unindexed_array, function(n, i){
+						indexed_array[n['name']] = n['value'];
+					});
+
+					return indexed_array;
+				}
+				const apis = JSON.parse("{{ jsonify .Site.Params.apis }}")
+				var apiurl = "/api";
+				if(apis[window.location.hostname]){
+					apiurl = apis[window.location.hostname]
+				}
+				$( "#contactform input, #contactform textarea" ).on("change paste keyup", function() {
+					
+					var form =  getFormData($("#contactform"))
+					console.log("input", form)
+					if(form.name !== "" && form.email !== "" && form.message !== ""){
+						if($("#contact_submit").hasClass("disabled"))
+							$("#contact_submit").removeClass('disabled')
+					}else{
+						if(!$("#contact_submit").hasClass("disabled"))
+							$("#contact_submit").addClass('disabled')
+					}
+				});
+				$( "#contactform" ).submit(function( event ) {
+					//alert( "Handler for .submit() called." );
+					event.preventDefault();
+					
+					
+					var form =  getFormData($("#contactform"))
+					var obj = {
+						//url:sisapi+"/addListing",
+						url:apiurl+"/email",
+						contentType: "application/json; charset=UTF-8", // This is the money shot
+						dataType:"json",
+						data: JSON.stringify(form),
+						method:"POST"
+
+					}
+					$.ajax(obj).done((data) => {
+						window.location.href = "/#emailsent"
+					}).fail(()=>{
+						window.location.href = "/#emailerror"
+					});
+					window.location.href = "/#emailsending"
+				});
+			</script>
 			{{ template "_internal/google_analytics_async.html" . }}
 
 	</body>

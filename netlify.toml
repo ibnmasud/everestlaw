@@ -1,6 +1,7 @@
 [build]
   command = "yarn build"
   publish = "dist"
+  functions = "./functions"
 [build.environment]
   YARN_VERSION = "0.27.5"
 
