@@ -17203,7 +17203,6 @@ convert.rgb.gray = function (rgb) {
 // https://github.com/sendgrid/sendgrid-nodejs
 var Boom = __webpack_require__(98);
 var sgMail = __webpack_require__(101);
-process.env.SENDGRID_API_KEY = "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";
 sgMail.setApiKey(process.env.SENDGRID_API_KEY);
 function lamdaResponse(json) {
     if (json && json.isBoom) {
